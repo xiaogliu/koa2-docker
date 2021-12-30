@@ -1,0 +1,27 @@
+{
+  "name": "koa2-docker",
+  "version": "1.0.0",
+  "description": "koa2 server used to learn k8s",
+  "main": "app.js",
+  "dependencies": {
+    "koa": "^2.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaogliu/koa2-docker.git"
+  },
+  "keywords": [
+    "koa2",
+    "k8s"
+  ],
+  "author": "Liu-Xiaoguang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiaogliu/koa2-docker/issues"
+  },
+  "homepage": "https://github.com/xiaogliu/koa2-docker#readme"
+}
