@@ -4,7 +4,8 @@
   "description": "koa2 server used to learn k8s",
   "main": "app.js",
   "dependencies": {
-    "koa": "^2.13.4"
+    "koa": "^2.13.4",
+    "node-fetch": "^2.6.6"
   },
   "devDependencies": {},
   "scripts": {
